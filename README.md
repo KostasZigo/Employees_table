@@ -21,7 +21,7 @@ A simple web application that fetches data of company's employees from a JSON En
    
 ## Usage
 
- 1. Enter localhost:3000 from your browser to connect to the application.
+ 1. Enter localhost:3000 from your browser to connect to the application while it is running.
  2. Your browser page should look like the image bellow: 
 	![plot](./public/table_image.PNG)
  3. By clicking the **Edit** button on a certain employee you can change some of his/her information:
@@ -30,5 +30,5 @@ A simple web application that fetches data of company's employees from a JSON En
  	+ Change his/her role on the company by choosing an otpion from a dropdown menu.
  	
     You can click the **Save** button to save any changes you made on these fields. (see image bellow).
-
+	![plot](./public/edit_table_image.PNG)
 
