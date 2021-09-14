@@ -1,41 +1,44 @@
-# Getting Started with Create React App
+# Scrollable, inline-editable table of company Employees using React JS and Tailwindcss
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple web application that fetches data of company's employees from a JSON Endpoint and presents them on a scrollable table. In addition, allows inline editing of employee's data.   
 
-## Available Scripts
+## Requirements
++ [Node.js](https://nodejs.org/)
++ [ReactJS](https://reactjs.org/)
++ [Javascript/Typescript](https://www.javascript.com)
++ [Tailwindcss](https://tailwindcss.com/)
 
-In the project directory, you can run:
+##  Getting Started
 
-### `npm start`
+	Get the project from the repository
+	git clone https://github.com/KostasZigo/Employees_table.git
+    
+    Then you have to install npm packages of the application using:
+    npm install
+    
+    You can start the application by executing the command bellow:
+    npm start
+   
+## Usage
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Android Usage
+ 1. Run the Android app and press the ***CONNECT*** button.
+ 2. You will connect to the first available user and communication will be started.
+ 3. You can press the red button to hang up at any time.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Web Usage
+ 1. Enter localhost:4200 from your browser to connect to the application.
+ 2. In order to open your camera press the ***Start*** button and to close it press the ***Stop*** button.
+ 3. Press the ***Call*** button to start the communication with the first available user.
+ 4. Press the ***Hangup*** button to stop the communication.
 
-### `npm test`
+## Reference
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
++ [droid roulette](https://github.com/agilityfeat/droid-roulette)
++ [Wolfgang Liegel](https://github.com/wliegel/youtube_webrtc_tutorial) - [Angular WebRTC]
 
-### `npm run build`
+## Contributors
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
++ [Konstantinos Zigogiannis Mplionas](https://github.com/KostasZigo)
++ [Konstantinos Kyratsous](https://github.com/KonstantinosKyratsous)
++ [Vasiliki Kanakari](https://github.com/vasilikikan)
