@@ -10,7 +10,7 @@ A simple web application that fetches data of company's employees from a JSON En
 
 ##  Getting Started
 
-	Get the project from the repository
+	Get the project from the repository:
 	git clone https://github.com/KostasZigo/Employees_table.git
     
     Then you have to install npm packages of the application using:
