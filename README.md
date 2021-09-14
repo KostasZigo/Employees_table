@@ -21,7 +21,7 @@ A simple web application that fetches data of company's employees from a JSON En
    
 ## Usage
 
- 1. Run the Android app and press the ***CONNECT*** button.
+	 1. Run the Android app and press the ***CONNECT*** button.
  2. You will connect to the first available user and communication will be started.
  3. You can press the red button to hang up at any time.
 
