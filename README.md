@@ -28,7 +28,8 @@ A simple web application that fetches data of company's employees from a JSON En
  	+ Change his/her Title information by writing on an input field.
  	+ Change his/her status from *Active* to *Inactive* and vice versa by clicking on his/her status button.
  	+ Change his/her role on the company by choosing an otpion from a dropdown menu.
- You can click the *Save* button to save any changes you made on these fields. (see image bellow).
+ 	
+    You can click the *Save* button to save any changes you made on these fields. (see image bellow).
 
 ## Contributors
 
