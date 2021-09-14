@@ -31,7 +31,4 @@ A simple web application that fetches data of company's employees from a JSON En
  	
     You can click the **Save** button to save any changes you made on these fields. (see image bellow).
 
-## Contributors
-
-+ [Konstantinos Zigogiannis Mplionas](https://github.com/KostasZigo)
 
