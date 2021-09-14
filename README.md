@@ -23,7 +23,7 @@ A simple web application that fetches data of company's employees from a JSON En
 
  1. Enter localhost:3000 from your browser to connect to the application.
  2. Your browser page should look like the image bellow: 
-	![plot](./public/image_table.PNG)
+	![plot](./public/table_image.PNG)
 
 
 ## Contributors
