@@ -1,6 +1,7 @@
 # Scrollable, inline-editable table of company Employees using React JS and Tailwindcss
 
-A simple web application that fetches data of company's employees from a JSON Endpoint and presents them on a scrollable table. In addition, allows inline editing of employee's data.   
+A simple web application that fetches data of company's employees from a JSON Endpoint and presents them on a scrollable table. In addition, allows inline editing of employee's data.  
+Give it a try here:  https://kostaszigo.github.io/Employees_table/
 
 ## Requirements
 + [Node.js](https://nodejs.org/)
@@ -34,3 +35,4 @@ A simple web application that fetches data of company's employees from a JSON En
     
 	![plot](./public/edit_table_image.PNG)
 
+4. You can check all those uses in this link :  https://kostaszigo.github.io/Employees_table/
